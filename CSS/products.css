@@ -41,8 +41,20 @@ header,
     padding-left: 75px
 }
 
+.webcoPadding {
+    padding-top: 4rem;
+}
+
+.wrapperPaddingText {
+    padding-top: 5rem ;
+}
+
 .bottomRow {
     height: 21rem;
+}
+
+.BotBif {
+    height: 20rem;
 }
 
 main {

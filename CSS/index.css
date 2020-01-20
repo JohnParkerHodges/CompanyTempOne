@@ -23,3 +23,7 @@ header,
 .view {
   height: 100%;
 }
+
+main {
+    background-image: url(../images/white-waves.png);
+}
