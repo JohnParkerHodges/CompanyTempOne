@@ -36,6 +36,21 @@ header,
     font-size: 24px;
 }
 
+.bottomPadding {
+    padding-top: 3rem;
+    padding-left: 75px
+}
+
+.bottomRow {
+    height: 21rem;
+}
+
 main {
     background-image: url(../images/white-waves.png);
+    
+}
+
+.Budilding {
+    height: 295px;
+    width: 453px;
 }

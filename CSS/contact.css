@@ -1,0 +1,40 @@
+.navbar {
+    background-color: black;
+}
+
+@media only screen and (max-width: 768px) {
+    .navbar {
+        background-color: #4285F4;
+    }
+}
+
+.Kady {
+    float: left;
+}
+
+.Tracy {
+    float: left;
+}
+
+.Patrick {
+    float: right;
+    padding-right: 10px;
+}
+
+.Daniel {
+    float: right;
+}
+
+body {
+    background-image: url(../images/treesFront.jpeg);
+    background-size: cover;
+}
+
+.Info {
+    background-image: url(../images/white-waves.png);
+}
+
+.MapGuy  {
+    height: 50vh;
+    width: 100%;
+}
